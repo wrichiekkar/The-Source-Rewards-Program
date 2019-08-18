@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107975190504",
+    "firebase_url": "https://sourcerewards.firebaseio.com",
+    "project_id": "sourcerewards",
+    "storage_bucket": "sourcerewards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107975190504:android:993b77d2e5e7b4e3",
+        "android_client_info": {
+          "package_name": "ca.thesource.sourcerewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107975190504-d1i4peag05u9ch3bdg7m83cfjgln5t6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINdEpuXXJKCe6jHCVUMXxxwwE3Qz-TGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107975190504-d1i4peag05u9ch3bdg7m83cfjgln5t6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

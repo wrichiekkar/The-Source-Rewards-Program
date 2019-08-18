@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Source Rewards</string>
+    <string name="title_activity_scans_page">ScansPage</string>
+    <string name="password">Password</string>
+</resources>
